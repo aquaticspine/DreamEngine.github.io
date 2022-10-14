@@ -91,4 +91,7 @@ https://youtu.be/hDwOwQtyBG4
 
 Our game at Pax, thanks for everyone who came to see us!
 
+Our Twitter: https://twitter.com/FriendInMeGame
+
+Or you can use our QR code
 ![FIMtwitter](https://user-images.githubusercontent.com/84751545/195841577-bce7786c-2b31-4669-9a53-b956e4b40608.png)
