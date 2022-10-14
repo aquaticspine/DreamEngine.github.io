@@ -31,57 +31,89 @@ Below are some concepts for a cutscene.
 
 ![credits](https://user-images.githubusercontent.com/84751545/195840206-a876103d-4090-4317-8dc0-a5fccce60a0c.png)
 
-Venkatesh Aravendan (V)
+<h3> Group members </h3>
+
+<b> Venkatesh Aravendan (V) </b>
+
 Producer
+
 venki.aravendan@gmail.com
 
-Nathan Edwards (Sky)
+<b> Nathan Edwards (Sky) </b>
+
 Lead Writer
+
 n.halo@hotmail.com
 
-Kelvin Fu
+<b> Kelvin Fu </b>
+
 Programmer
+
 102094254@student.swin.edu.au
+
 Programming and the Unity platform.
 
-Ainslie Holland
+<b> Ainslie Holland </b>
+
 Creative Director / Artist
+
 ainslieholland@gmail.com
+
 Graphic design, creating 2d assets, and facilitating communication between internal teams.
 
-Henry Kavadias-Barnes
+<b> Henry Kavadias-Barnes </b>
+
 Lead Programmer
+
 bkyrneh@gmail.com
+
 Programmer, Unity game engine setup, and GitHub repository Manager.
 
-Heath Legg
+<b> Heath Legg </b>
+
 Programmer
+
 heathlegg11@gmail.com
+
 Programming and the Unity platform.
 
-Thomas McDonald
+<b> Thomas McDonald </b>
+
 Animator / Artist
+
 102097525@student.swin.edu.au
+
 Creating, animating and rigging models in 3d mainly using Autodesk Maya and Blender.
 
-Lucas O'Connor
+<b> Lucas O'Connor </b>
+
 Lead Designer
+
 102102115@student.swin.edu.au
 
-Andrew Ogilvie (Ogz)
+<b> Andrew Ogilvie (Ogz) </b>
+
 Narrative Writer
-a.nateogz2041@gmail.com
 
-Hamish Owen
+ a.nateogz2041@gmail.com
+
+<b> Hamish Owen </b>
+
 Level Designer
-htjowen@hotmail.com
 
-Kyle Jadraque
-2D Artist
-102582953@student.swin.edu.au
+ htjowen@hotmail.com
 
-Fernando
-Composer from Melbourne Polytechnic
+
+ <b> Kyle Jadraque </b>
+
+ 2D Artist
+
+ 102582953@student.swin.edu.au
+
+
+ <b> Fernando </b>
+
+ Composer from Melbourne Polytechnic
 
 In alphabetical order by last name
 
@@ -93,5 +125,5 @@ Our game at Pax, thanks for everyone who came to see us!
 
 Our Twitter: https://twitter.com/FriendInMeGame
 
-Or you can use our QR code
+Or you can use our QR code:
 ![FIMtwitter](https://user-images.githubusercontent.com/84751545/195841577-bce7786c-2b31-4669-9a53-b956e4b40608.png)
