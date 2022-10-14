@@ -13,7 +13,7 @@ The game is low poly with a colourful and bright aesthetic reinforcing the setti
 
 Can be played with keyboard and mouse or controller, but controller is preferred.
 
-![FIM](https://user-images.githubusercontent.com/84751545/195839703-b3e31539-fe0b-4c5b-9e20-3f4f1732d5cd.png)
+![character concepts](https://user-images.githubusercontent.com/84751545/195843012-4c78f27c-b4e9-4fa8-a1c4-ab2ff0c1179b.png)
 
 Harry is the character the player controls moving them through the environment dodging obstacles and collecting coins. Here is where the team combined their skills as we decide to combine the 2D and 3D art styles.
 
